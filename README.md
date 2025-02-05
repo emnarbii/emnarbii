@@ -1,7 +1,7 @@
 -  Hi, I’m @emnarbii 👋
 - ✨ I’m Computer Science Engineer and Teacher
 ## Languages and Tools
-<img src="https://github.com/user-attachments/assets/84430374-e6be-46fb-8951-38ee36ebf212" width="200">
+<img src="https://github.com/user-attachments/assets/84430374-e6be-46fb-8951-38ee36ebf212" width="50">
 ![image](https://github.com/user-attachments/assets/84430374-e6be-46fb-8951-38ee36ebf212)
 ![image](https://github.com/user-attachments/assets/0b6fae1b-382d-4f64-a051-f73f7d361d4f)
 ![image](https://github.com/user-attachments/assets/3befdcd7-ab91-4db5-81dd-46bccde067f9)
